@@ -62,6 +62,7 @@ margin:0px;
   position:absolute;
   top:200px;
   text-align: center;
+  width:100%;
 }
 #developerProjectsContainer *{
   padding: 10px;
